@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/kgpian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kgpian" height="30" width="40" /></a>
 <a href="https://fb.com/hariom.raj.12532" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hariom.raj.12532" height="30" width="40" /></a>
-  <a href="https://hariom.works" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg](https://icons8.com/icon/63807/website)" alt="hariom.raj.12532" height="30" width="40" /></a>
+  <a href="https://hariom.works" target="blank"><img align="center" src="https://icons8.com/icon/63807/website" alt="website" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
